@@ -1,4 +1,4 @@
-# Origami
+# Topol
 
 MIMUW  
 Wstęp do programowania, potok funkcyjny  
